@@ -1,1 +1,1 @@
-{"l": {"name": "Wheelbase", "value": 2510, "unit": "mm"}, "mf": {"name": "Front mass", "value": 1190, "unit": "kg"}, "mr": {"name": "Rear mass", "value": 1090, "unit": "kg"}, "I": {"name": "Yaw inertia", "value": 2650, "unit": "kgm^2"}}
+{"l": {"name": "Wheelbase", "value": 2700, "unit": "mm"}, "A": {"name": "Stability Factor", "value": 1.3, "unit": "x10^(-3) s^2/m^2"}, "N": {"name": "Gear Ratio", "value": 16, "unit": "-"}}
